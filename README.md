@@ -1,6 +1,6 @@
 # find-the-end-rs
 
-Pequena aplicação em Rust para estimar coordenadas usando trigonometria, com base em dois ângulos e uma direção cardinal. Inspirado na lógica de triangulação usada em jogos como Minecraft para encontrar estruturas como a fortaleza do End.
+Pequena aplicação em Rust para estimar coordenadas usando trigonometria, com base em dois ângulos e uma direção cardinal. Inspirado na lógica de triangulação usada em jogos.
 
 ## 📐 Sobre
 
